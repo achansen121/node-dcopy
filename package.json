@@ -1,0 +1,15 @@
+{
+  "name": "dcopy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dc.js",
+  "dependencies": {
+    "type_checker": "https://github.com/achansen121/node-type_checker.git"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
